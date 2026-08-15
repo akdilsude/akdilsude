@@ -2,10 +2,10 @@
 
 ### 🤖 Mechatronics Engineering Student at Turkish-German University | 42 Istanbul Core Program Student
 
-Welcome to my GitHub! I am Mechatronics Engineering student who loves bridging the gap between physical hardware and robust software systems. Currently, I am also deep-diving into low-level programming, system architecture, and object-oriented design at **42 Istanbul**. 
+Welcome to my GitHub! I build the bridge between physical hardware and software. Currently exploring low-level system architectures at **42 Istanbul**.
 
 ### 🎨 About Me.
-- 🎓 **Education:** 3rd Year Mechatronics Engineering @Turkish-German University.
+- 🎓 **Education:** 3rd Year Mechatronics Engineering at Turkish-German University.
 - 🚀 **Software Journey:** Common Core student at 42 Istanbul — focusing on C/C++, System Programming, Multithreading, Unix Signals and Algorithms.
 - 💡 **Interests:** Embedded Systems, Robotics, Computer Graphics, and Low-level System Mechanics.
 - 🎯 **Skills:** Writing clean code without standard libraries, resolving deadlocks/race conditions, and building leak-free software.
@@ -38,11 +38,6 @@ Welcome to my GitHub! I am Mechatronics Engineering student who loves bridging t
 * 🧩 **C++ Modules (00-09)**: A comprehensive journey into Object-Oriented Programming, covering Orthodox Canonical Form, polymorphism, templates, and STL containers.
 * 📚 **[libft](https://github.com/akdilsude/libft)**: Re-creation of C standard library functions (`malloc`, `string` manipulation, linked lists).
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akdilsude&show_icons=true&theme=tokyonight" alt="akdilsude's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdilsude&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</p>
 
 ### 📬 Let's Connect!
 - 💼 **LinkedIn:** [linkedin.com/in/senin-linkedin-adresin](https://linkedin.com/in/akdilsude)
