@@ -4,7 +4,7 @@
 
 
 Welcome to my GitHub! I build the bridge between physical hardware and software. Currently exploring low-level system architectures at **42 Istanbul**.
-
+<br>
 
 ### 🎨 About Me.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I build the bridge between physical hardware and software.
 - 💡 **Interests:** Embedded Systems, Robotics, Computer Graphics, and Low-level System Mechanics.
 - 🎯 **Skills:** Writing clean code without standard libraries, resolving deadlocks/race conditions, and building leak-free software.
 
-
+<br>
 ### 🛠️ Technologies & Tools
 
 **Programming & Scripting:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +28,7 @@ Welcome to my GitHub! I build the bridge between physical hardware and software.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=make&logoColor=white)
 
-
+<br>
 ### 🧠 Featured Projects
 
 * 🎮 **[cub3D](https://github.com/akdilsude/cub3D)**: A 3D game engine inspired by Wolfenstein 3D. Built entirely in C using the MiniLibX graphics library and mathematical Raycasting algorithms.
@@ -41,7 +41,7 @@ Welcome to my GitHub! I build the bridge between physical hardware and software.
 * 🧩 **C++ Modules (00-09)**: A comprehensive journey into Object-Oriented Programming, covering Orthodox Canonical Form, polymorphism, templates, and STL containers.
 * 📚 **[libft](https://github.com/akdilsude/libft)**: Re-creation of C standard library functions (`malloc`, `string` manipulation, linked lists).
 
-
+<br>
 ### 📬 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/senin-linkedin-adresin](https://linkedin.com/in/akdilsude)
