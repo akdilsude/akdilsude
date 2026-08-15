@@ -2,9 +2,12 @@
 
 ### 🤖 Mechatronics Engineering Student at Turkish-German University | 42 Istanbul Core Program Student
 
+
 Welcome to my GitHub! I build the bridge between physical hardware and software. Currently exploring low-level system architectures at **42 Istanbul**.
 
+
 ### 🎨 About Me.
+
 - 🎓 **Education:** 3rd Year Mechatronics Engineering at Turkish-German University.
 - 🚀 **Software Journey:** Common Core student at 42 Istanbul — focusing on C/C++, System Programming, Multithreading, Unix Signals and Algorithms.
 - 💡 **Interests:** Embedded Systems, Robotics, Computer Graphics, and Low-level System Mechanics.
@@ -40,5 +43,6 @@ Welcome to my GitHub! I build the bridge between physical hardware and software.
 
 
 ### 📬 Let's Connect!
+
 - 💼 **LinkedIn:** [linkedin.com/in/senin-linkedin-adresin](https://linkedin.com/in/akdilsude)
 - 📧 **Email:** akdilsude@gmail.com
