@@ -2,7 +2,7 @@
 
 ### 🤖 Mechatronics Engineering Student at Turkish-German University | 42 Istanbul Core Program Student
 
-Welcome to my GitHub! I am a 3rd-year Mechatronics Engineering student who loves bridging the gap between physical hardware and robust software systems. Currently, I am also deep-diving into low-level programming, system architecture, and object-oriented design at **42 Istanbul**. 
+Welcome to my GitHub! I am Mechatronics Engineering student who loves bridging the gap between physical hardware and robust software systems. Currently, I am also deep-diving into low-level programming, system architecture, and object-oriented design at **42 Istanbul**. 
 
 ### 🎨 About Me.
 - 🎓 **Education:** 3rd Year Mechatronics Engineering @Turkish-German University.
